@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Narrow&display=swap');
+*{padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+nav{
+  border: 1px #BD0036  solid;
+  background-color:#BD0036 ;
+  height: 100px;
+  width: 100%;
+}
+h3{
+  font-family: 'Archivo Narrow', sans-serif;
+  font-size: 33px;
+  position: relative;
+  left:10px;
+
+}
+h2{
+  font-family: 'Archivo Narrow', sans-serif;
+  font-size: 12px;
+  display: flex;
+  justify-content: flex-end;
+  position: relative;
+  top: -35px;
+  right: 10px;
+}
+h1{
+font-family: 'Archivo Narrow', sans-serif;
+font-size: 30px;
+position: relative;
+top: 10px;
+left:10px;
+}
+p{
+  font-family: 'Archivo Narrow', sans-serif;
+  position: relative;
+  left:10px;
+  font-size: 23px
+}
+.p1{
+  font-family: 'Archivo Narrow', sans-serif;
+  display: flex;
+  justify-content: center;
+  font-size: 23px;
+  position: relative;
+  left:10px;
+  bottom: 135px;
+
+}
+.p2{
+  display: flex;
+  justify-content: center;
+  position: relative;
+  bottom: 135px;
+
+}
+
+figure > img{
+position: relative;
+left: 20px;
+top:77px;
+}
+
+.contentSkills{
+  display: flex;
+  justify-content: space-around;
+}
+
+.text{
+  margin-left: -10px;
+}
+.text1{
+  margin-left: -20px;
+}
+
+footer{
+  border: 1px #BD0036  solid;
+  background-color:#BD0036 ;
+  height: 20px;
+  width: 100%;
+}
